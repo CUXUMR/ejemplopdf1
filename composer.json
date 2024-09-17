@@ -1,9 +1,11 @@
 {
-    "name": "mindef/demo",
-    "description": "Proyecto MVC demo",
+    "name": "cuxum/ejemplopdf1",
+    "description": "Aplicacion demo mpdf",
     "type": "project",
     "config": {
-        "platform-check": false
+        "platform": {
+            "php":"7.4.21"
+        }
     },
     "autoload": {
         "psr-4": {
